@@ -21,12 +21,34 @@ I am a Ph.D. candidate at Concordia University.
 
 My research interest includes multi-attribute decision making, data clustering. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-# 📝 Publications 
+# 📝 Publications (selected) 
 
-- Huidong Wang, **Jinli Yao**, Xiaoyun Zhang, and Yao Zhang, "An Area Similarity Measure for Trapezoidal Interval Type-2 Fuzzy Sets and Its Application to Service Quality Evaluation", *International Journal of Fuzzy Systems*, vol.23, pp. 2252–2269, 2021.
-- Huidong Wang, **Jinli Yao**, Jun Yan, and Mingguang Dong, "An Extended TOPSIS Method Based on Gaussian Interval Type-2 Fuzzy Set", *International Journal of Fuzzy Systems*, vol.21, pp. 1831–1843, Sept., 2019.
-- Huidong Wang, Xiaohong Pan, Jun Yan, **Jinli Yao**, and Shifan He, "A projection-based regret theory method for multi-attribute decision making under interval type-2 fuzzy sets environment", *Information Sciences*, vol.512, pp. 108–122, Feb., 2020.
-- Huidong Wang and **Jinli Yao**, "An Improved Deep Convolutional Fuzzy System for Classification Problems", 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), Glasgow, UK, July, 2020. (Oral presentation)
+### Journal
+
+- **Jinli Yao**, Jie Pan, and Yong Zeng, “Gauging-δ: A Non-parametric Hierarchical Clustering Algorithm”.
+  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, doi: 10.1109/TPAMI.2025.3545573,
+  early access.
+- **Jinli Yao** and Yong Zeng, “Gauging-β: Border-aware density clustering with hierarchical single-linkage”.
+  Pattern Recognition, 2025. (under second round review)
+- Huidong Wang, **Jinli Yao**, Xiaoyun Zhang, and Yao Zhang, “An Area Similarity Measure for Trapezoidal
+  Interval Type-2 Fuzzy Sets and Its Application to Service Quality Evaluation”, International Journal of
+  Fuzzy Systems, vol.23, pp. 2252‒2269, 2021. 
+- Huidong Wang, **Jinli Yao**, Jun Yan, and Mingguang Dong, “An Extended TOPSIS Method Based on
+  Gaussian Interval Type-2 Fuzzy Set”, International Journal of Fuzzy Systems, vol.21, pp. 1831‒1843,
+  Sept., 2019.
+- Huidong Wang, Xiaohong Pan, Jun Yan, **Jinli Yao**, and Shifan He, “A projection-based regret theory
+  method for multi-attribute decision making under interval type-2 fuzzy sets environment”, Information
+  Sciences, vol.512, pp. 108‒122, Feb., 2020.
+- 王会东, 李兆东, **姚金丽**, 余德淦. 基于对称三角模糊集的股票投资者情绪传播模型. 自动化学报,
+  2020, 46(5): 1031−1043.
+
+### Conferences
+
+- Huidong Wang and **Jinli Yao**, “An Improved Deep Convolutional Fuzzy System for Classification Prob-
+  lems,”2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), Glasgow, UK, July, 2020.
+2. Huidong Wang, **Jinli Yao**, and Xiaoyun Zhang, “A New Multi-attribute Decision Making Method Based
+on Interval Normal Type-2 Fuzzy Numbers”, 2018 International Conference on Fuzzy Theory and Its
+Applications (iFUZZY 2018), Daegu, Korea (South), pp.136-141, Nov., 2018
 
 # 🎖 Honors and Awards
 - 2021 Gina Cody School of Engineering and Computer Science Graduate Scholarship, Concordia University 
