@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate at Concordia University and going to graduate in August 2025. My research focuses on clustering as a fundamental exploratory data analysis technique, aimed at uncovering hidden patterns and structures in data without prior assumptions. Specifically, I develop non-parametric clustering algorithms capable of handling complex data characteristics, such as diverse cluster shapes, poorly separated data, and high-dimensional datasets. I have published papers in the journals such as IEEE TPAMI, International Journal of Fuzzy Systems, Information Sciences, and at conferences like WCCI, the flagship conference in the field of computational intelligence.
 
-# 📝 Publications (selected) 
+# 📝 Publications 
 
 ### Journal
 
@@ -66,9 +66,3 @@ I am a Ph.D. candidate at Concordia University and going to graduate in August 2
 -  Ph.D. in Information Systems and Engineering, Concordia University, 2025
 -  M.A.Sc. in Management Science and Engineering, Shandong University of Finance and Economics, 2021
 -  B.Sc. in Management Science, Tianjin University of Finance and Economics, 2018
-
-# 💬 Invited Talks
-- 
-
-# 💻 Internships
-- 
