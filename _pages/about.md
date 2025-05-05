@@ -48,6 +48,12 @@ I am a Ph.D. candidate at Concordia University and going to graduate in August 2
   on Interval Normal Type-2 Fuzzy Numbers”, 2018 International Conference on Fuzzy Theory and Its
   Applications (iFUZZY 2018), Daegu, Korea (South), pp.136-141, Nov., 2018
 
+# 📖 Educations
+
+-  Ph.D. in Information Systems and Engineering, Concordia University, 2025
+-  M.A.Sc. in Management Science and Engineering, Shandong University of Finance and Economics, 2021
+-  B.Sc. in Management Science, Tianjin University of Finance and Economics, 2018
+
 # 🎖 Honors and Awards
 - 2021 Gina Cody School of Engineering and Computer Science Graduate Scholarship, Concordia University 
 - 2020 Outstanding graduate, SDUFE
@@ -61,8 +67,3 @@ I am a Ph.D. candidate at Concordia University and going to graduate in August 2
 - 2019 Graduates’ Innovation Grants, School of Management Science and Engineering, SDUFE
 - 2018 Third-class Scholarship of Excellent Graduate Students, SDUFE
 - 2017 Second-class Scholarship of Excellent Graduate Students, TUFE
-
-# 📖 Educations
--  Ph.D. in Information Systems and Engineering, Concordia University, 2025
--  M.A.Sc. in Management Science and Engineering, Shandong University of Finance and Economics, 2021
--  B.Sc. in Management Science, Tianjin University of Finance and Economics, 2018
