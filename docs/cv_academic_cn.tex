@@ -1,0 +1,56 @@
+% ============================================================
+% 学术版简历 -- 中文
+% 编译顺序: xelatex -> biber -> xelatex -> xelatex
+% ============================================================
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{classic}
+\moderncvcolor{grey}
+\usepackage[scale=0.85]{geometry}
+\usepackage{textcomp}
+\input{preamble/fonts-cn.tex}
+
+\input{preamble/biblatex-setup.tex}
+\toggletrue{cvchinese}
+\input{preamble/labels-cn.tex}
+\input{preamble/cv-macros.tex}
+
+% This CV's "主要研究成果" list is merged across publication types and shows
+% only papers where I am first or second author, ordered by date descending
+% (rather than the shared cvorder template's rank-before-date ordering).
+\DeclareSortingTemplate{datedesc}{
+  \sort[direction=descending]{
+    \field{sortdate}
+  }
+  \sort{
+    \field{sorttitle}
+    \field{title}
+  }
+}
+\DeclareBibliographyCategory{cnfirstsecond}
+
+\name{}{姚金丽}
+\email{yaojl@sustech.edu.cn}
+\phone[mobile]{156-1018-8162}
+
+
+\begin{document}
+\makecvtitle
+
+\input{content/cn/academic/experience.tex}
+
+\input{content/cn/shared/education.tex}
+
+\input{content/cn/academic/summary.tex}
+
+\section{主要研究成果}
+\addtocategory{cnfirstsecond}{yao2025gaugingdelta,yao2026gaugingbeta,yao2026clusteringcriteria,wang2021areasimilarity,wang2019topsisgaussian,wang2020fuzzieee,wang2018ifuzzy}
+\newrefcontext[sorting=datedesc]
+\printbibliography[category=cnfirstsecond, heading=none, env=cvbiblist]
+
+\input{content/cn/academic/projects.tex}
+
+\input{content/cn/academic/honors.tex}
+
+\input{content/cn/academic/service.tex}
+
+\end{document}
