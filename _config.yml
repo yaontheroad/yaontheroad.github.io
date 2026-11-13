@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinli Yao"
-description              : "Ph.D. candidate at Concordia University"
+description              : "Postdoc at SUSTech"
 repository               : "yaontheroad/yaontheroad.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Jinli Yao"
   avatar           : "images/Jinli.jpg"
   bio              : " "
-  location         : "Montreal, Canada"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jinli.yao@mail.concordia.ca"
+  email            : "jinli.yao@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
